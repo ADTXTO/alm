@@ -1,8 +1,3 @@
-
-<h1 # ALM — ADTXTO </h1>
-
-<!-- Banner --> <!-- Título e Subtítulo -->
-
 <h1 align="center"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCwAT7OogEqRr7pJkAalmRf6jmyMniz6VOxHwpQeEtTKkGXpNnZo35AcUWH5MtffafwiRA_UrG2EF2BNq5ggmhlTBJknvrxBuxw_227Am5AwoyM49L3fOsIlsYaZs16V1PNr2pHRgzQC8Vv4hLQynupuML1WNTThx1U8yTaSr18VZwqQ/s1600/nosharedpromptsdark.png" width="3%">  ALM – Luxury Design System</h1>
 
 <p align="center">
