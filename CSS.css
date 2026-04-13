@@ -1,0 +1,40 @@
+/* Barra esquerda */
+.left-bar {
+    position: fixed;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 40px;
+    background: #eee;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.left-item {
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+/* Barra direita */
+.right-bar {
+    position: fixed;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 40px;
+    background: #eee;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.right-item {
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+/* Conteúdo */
+.content {
+    margin: 40px auto;
+    width: 60%;
+    font-size: 20px;
+}
