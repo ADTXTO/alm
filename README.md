@@ -11,14 +11,6 @@
 
 <!-- Botões Sociais -->
 <p align="center">
-  <a href="https://instagram.com/ADTXTO">
-    <img src="https://img.shields.io/badge/Instagram-C6A43F?style=for-the-badge&logo=instagram&logoColor=0A1A2F&color=C6A43F" alt="Instagram">
-  </a>
-
-  <a href="https://www.linkedin.com/in/ADTXTO">
-    <img src="https://img.shields.io/badge/LinkedIn-2C2C36?style=for-the-badge&logo=linkedin&logoColor=white&color=2C2C36" alt="LinkedIn">
-  </a>
-
   <a href="mailto:ADTXTO@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-C6A43F?style=for-the-badge&logo=gmail&logoColor=0A1A2F&color=C6A43F" alt="Gmail">
   </a>
