@@ -1,4 +1,4 @@
-# ALM — ADTXTO
+<strong># ALM — ADTXTO
 
 <!-- Banner --> <!-- Título e Subtítulo -->
 
@@ -6,4 +6,15 @@
 <p align="center">
   <strong>Laboratório de Palavras | Ideias em Texto</strong><br>
   <em>Estúdio Digital de Comunicação e Escrita Profissional</em>
+</p>
+
+<strong>## Contacto</strong>
+
+- **Email:** hello@ADTXTO.estudio
+- **Estúdio:** Laboratório de Palavras – Ideias em Texto
+
+---
+
+<p align="center">
+  <sub>© 2026 Laboratório de Palavras — Alma · limpa · profissional · forte</sub>
 </p>
