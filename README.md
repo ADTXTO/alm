@@ -11,8 +11,8 @@
 
  <h1>Contacto</h1>
 
-- **Email:** hello@ADTXTO.estudio
-- **Estúdio:** Laboratório de Palavras – Ideias em Texto
+- **Email:** <strong><em>hello@ADTXTO.estudio</em></strong>
+- **Estúdio:** <em>Laboratório de Palavras – Ideias em Texto</em>
 
 ---
 
