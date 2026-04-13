@@ -16,5 +16,5 @@
 ---
 
 <p align="center">
-  <sub>© 2026 Laboratório de Palavras — Alma · limpa · profissional · forte</sub>
+  <sub>© 2026 Laboratório de Palavras – Ideias em Texto — Todos Direitos Reservados.</sub>
 </p>
