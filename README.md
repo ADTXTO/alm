@@ -1,4 +1,4 @@
-<strong># ALM — ADTXTO
+<# ALM — ADTXTO
 
 <!-- Banner --> <!-- Título e Subtítulo -->
 
@@ -8,7 +8,7 @@
   <em>Estúdio Digital de Comunicação e Escrita Profissional</em>
 </p>
 
-<strong>## Contacto</strong>
+ <strong>Contacto</strong><br>
 
 - **Email:** hello@ADTXTO.estudio
 - **Estúdio:** Laboratório de Palavras – Ideias em Texto
