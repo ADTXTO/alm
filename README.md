@@ -24,5 +24,5 @@
 ---
 
 <p align="center">
-  <sub>© 2026 Laboratório de Palavras – Ideias em Texto — Todos Direitos Reservados.</sub>
+  <strong><em><sub>© 2026 Laboratório de Palavras — Ideias em Texto — Todos Direitos Reservados.</sub></em></strong>
 </p>
